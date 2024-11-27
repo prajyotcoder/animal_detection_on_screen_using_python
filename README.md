@@ -21,6 +21,7 @@ Before running the project, make sure you have the following installed:
 - NumPy
 - pyautogui
 - YOLOv3 pre-trained weights and configuration files
+  (yolov3.weights, yolov3.cfg)
 - coco.names (class labels for YOLO)
 
 
